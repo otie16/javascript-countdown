@@ -38,3 +38,12 @@ font-size: 3rem;
 .waiting{
 height: 50vh;
 }
+
+footer {
+background-color: rgb(14, 14, 48);
+color: white;
+display: grid;
+justify-content: center;
+padding-top: 20px;
+height: 100px;
+}
